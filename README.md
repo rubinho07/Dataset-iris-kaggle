@@ -38,36 +38,17 @@ O projeto foi desenvolvido nas seguintes etapas:
 
 ## Tecnologias utilizadas
 
-- Python;
 - Pandas;
 - Matplotlib;
 - Seaborn;
 - Scikit-learn;
 - Kaggle Notebooks.
 
-## Modelo de classificação
-
-O algoritmo utilizado foi o **Support Vector Machine (SVM)**, por meio da classe `SVC` da biblioteca Scikit-learn.
-
-Antes do treinamento, os dados foram padronizados com o `StandardScaler`. Em seguida, foram divididos em 80% para treinamento e 20% para teste.
-
-## Avaliação
-
-O desempenho do modelo foi avaliado utilizando as seguintes métricas:
-
-- Acurácia;
-- Precisão;
-- Recall;
-- F1-score;
-- Matriz de confusão.
-
-Essas métricas permitem verificar a quantidade de classificações corretas e identificar em quais espécies o modelo apresentou erros.
-
 ## Notebook do projeto
 
 O notebook completo pode ser acessado no Kaggle:
 
-[Acessar o notebook Iris Dataset](https://www.kaggle.com/code/vitor2505/vitordias-irisdataset)
+[Acessar o notebook Iris Dataset](https://www.kaggle.com/code/luisrubinho/dataset-iris)
 
 ## Como executar
 
